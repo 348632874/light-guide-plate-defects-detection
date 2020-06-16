@@ -49,7 +49,7 @@ int LGPRegionDefectDetect(const Mat LGPRegion)
 
 	merge(LGPChannels, LGPDefectShow);
 
-	// imwrite("blurDiffShow.bmp", LGPDefectShow);
+	imshow("LGPDefectShow", LGPDefectShow);
 
 	return processOK;
 }

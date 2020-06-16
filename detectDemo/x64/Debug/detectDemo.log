@@ -1,6 +1,2 @@
-﻿  scratch.cpp
-f:\image processing\lgp defect detection\project\detectdemo\detectdemo\define.h(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-f:\image processing\lgp defect detection\project\detectdemo\detectdemo\scratch.cpp(98): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
-f:\image processing\lgp defect detection\project\detectdemo\detectdemo\scratch.cpp(114): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  detectDemo.vcxproj -> F:\Image Processing\LGP defect detection\project\detectDemo\x64\Debug\detectDemo.exe
-  detectDemo.vcxproj -> F:\Image Processing\LGP defect detection\project\detectDemo\x64\Debug\detectDemo.pdb (Full PDB)
+﻿  detectDemo.vcxproj -> F:\Image Processing\LGP defect detection\project\light guide plate defects detection\x64\Debug\detectDemo.exe
+  detectDemo.vcxproj -> F:\Image Processing\LGP defect detection\project\light guide plate defects detection\x64\Debug\detectDemo.pdb (Full PDB)
