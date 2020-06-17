@@ -9,6 +9,6 @@ Run main.cpp to get detection results of light guide plate defects.
 
 # introduction
 Our project mainly contains two parts, the first part is to locate light guide plate from the image we acquire, and the second part is to detect defects in the light guide plate. Sobel algorithm is used to generate edge image, and Hough transform is used to detect plate border. Finally, we get the region of guide light plate in the image. When it comes to defects detection, we use Sobel, binaryzation, mean filter and some other algorithm to locate defects. The detection results can be shown as follows:<br>
-![Alt text](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGP.bmp)
-![Alt text](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGPRegion.jpg)
-![Alt text](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGPDefectShow.jpg)
+![LGP](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGP.bmp)
+![LGPRegion](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGPRegion.bmp)
+![LGPDefectShow](https://github.com/348632874/light-guide-plate-defects-detection/blob/master/picture/LGPDefectShow.jpg)
